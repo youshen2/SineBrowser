@@ -1,0 +1,95 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/StringBrower/app/src/main/java/moye/brower/stringbrower/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/StringBrower/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/StringBrower/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/StringBrower/app/src/main/res/values/strings.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/StringBrower/app/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 27,
+          "index": 480,
+          "line": 22
+        },
+        "start": {
+          "column": 27,
+          "index": 480,
+          "line": 22
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/StringBrower/README.md",
+      "selection": {
+        "end": {
+          "column": 22,
+          "index": 30,
+          "line": 2
+        },
+        "start": {
+          "column": 22,
+          "index": 30,
+          "line": 2
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/StringBrower/build.gradle.kts"
+}

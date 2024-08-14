@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.StringBrower" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowSwipeToDismiss">false</item>
+    </style>
+
+    <style name="Theme.StringBrower" parent="Base.Theme.StringBrower" />
+</resources>
